@@ -4,12 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What is your name?");
-            var name = Console.ReadLine();
-            var currentDate = DateTime.Now;
-            Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");
-            Console.Write($"{Environment.NewLine}Press any key to exit...");
-            Console.ReadKey(true);
+            Car audi = new AudiFactory().CreateCar();
+            Car bmw = new BMWFactory().CreateCar();
+
+            Console.WriteLine("Audi: " + audi.getBrand() + " " + audi.getYear() + " " + audi.getPrice());
+            Console.WriteLine("BMW: " + bmw.getBrand() + " " + bmw.getYear() + " " + bmw.getPrice());
+
         }
     }
 }
