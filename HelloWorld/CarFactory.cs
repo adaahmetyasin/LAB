@@ -32,6 +32,18 @@ namespace HelloWorld
         }
     }
 
+    public class Mercedes : Car{
+        public string getBrand(){
+            return "Mercedes";
+        }
+        public int getYear(){
+            return 2019;
+        }
+        public int getPrice(){
+            return 150000;
+        }
+    }
+
     // public class CarFactory{
     //     public static Car getCar(string brandName){
     //         Car car = null;
@@ -63,6 +75,12 @@ namespace HelloWorld
     public class BMWFactory : CarFactory{
         protected override Car ProduceCar(){
             BMW car = new BMW();
+            return car;
+        }
+    }
+    public class MercedesFactory : CarFactory{
+        protected override Car ProduceCar(){
+            Mercedes car = new Mercedes();
             return car;
         }
     }
