@@ -1,0 +1,15 @@
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/bin/Debug/net7.0/Builder
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/bin/Debug/net7.0/Builder.deps.json
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/bin/Debug/net7.0/Builder.runtimeconfig.json
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/bin/Debug/net7.0/Builder.dll
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/bin/Debug/net7.0/Builder.pdb
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/obj/Debug/net7.0/Builder.csproj.AssemblyReference.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/obj/Debug/net7.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/obj/Debug/net7.0/Builder.AssemblyInfoInputs.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/obj/Debug/net7.0/Builder.AssemblyInfo.cs
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/obj/Debug/net7.0/Builder.csproj.CoreCompileInputs.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/obj/Debug/net7.0/Builder.dll
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/obj/Debug/net7.0/refint/Builder.dll
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/obj/Debug/net7.0/Builder.pdb
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/obj/Debug/net7.0/Builder.genruntimeconfig.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Builder/obj/Debug/net7.0/ref/Builder.dll
