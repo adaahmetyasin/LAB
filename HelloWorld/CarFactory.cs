@@ -56,6 +56,18 @@ namespace HelloWorld
         }
     }
 
+    public class Formula : Car{
+        public string getBrand(){
+            return "Formula";
+        }
+        public int getYear(){
+            return 2019;
+        }
+        public int getPrice(){
+            return 200000;
+        }
+    }
+
     // public class CarFactory{
     //     public static Car getCar(string brandName){
     //         Car car = null;
@@ -100,6 +112,13 @@ namespace HelloWorld
     public class PorscheFactory : CarFactory{
         protected override Car ProduceCar(){
             Porsche car = new Porsche();
+            return car;
+        }
+    }
+
+    public class FormulaFactory : CarFactory{
+        protected override Car ProduceCar(){
+            Formula car = new Formula();
             return car;
         }
     }
