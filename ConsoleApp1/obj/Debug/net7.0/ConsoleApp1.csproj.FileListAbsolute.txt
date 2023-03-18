@@ -1,0 +1,5 @@
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
