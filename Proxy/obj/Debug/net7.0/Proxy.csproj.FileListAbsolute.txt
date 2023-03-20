@@ -1,0 +1,15 @@
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/bin/Debug/net7.0/Proxy
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/bin/Debug/net7.0/Proxy.deps.json
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/bin/Debug/net7.0/Proxy.runtimeconfig.json
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/bin/Debug/net7.0/Proxy.dll
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/bin/Debug/net7.0/Proxy.pdb
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/obj/Debug/net7.0/Proxy.csproj.AssemblyReference.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/obj/Debug/net7.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/obj/Debug/net7.0/Proxy.AssemblyInfoInputs.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/obj/Debug/net7.0/Proxy.AssemblyInfo.cs
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/obj/Debug/net7.0/Proxy.csproj.CoreCompileInputs.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/obj/Debug/net7.0/Proxy.dll
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/obj/Debug/net7.0/refint/Proxy.dll
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/obj/Debug/net7.0/Proxy.pdb
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/obj/Debug/net7.0/Proxy.genruntimeconfig.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Proxy/obj/Debug/net7.0/ref/Proxy.dll
