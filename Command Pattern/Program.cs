@@ -7,6 +7,6 @@
 
     public interface Process
     {
-        
+        ConsoleKey Key { get; }
     }
 }
