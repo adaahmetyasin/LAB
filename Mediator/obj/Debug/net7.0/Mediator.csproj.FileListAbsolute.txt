@@ -1,0 +1,15 @@
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/obj/Debug/net7.0/Mediator.csproj.AssemblyReference.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/obj/Debug/net7.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/obj/Debug/net7.0/Mediator.AssemblyInfoInputs.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/obj/Debug/net7.0/Mediator.AssemblyInfo.cs
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/obj/Debug/net7.0/Mediator.csproj.CoreCompileInputs.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/bin/Debug/net7.0/Mediator
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/bin/Debug/net7.0/Mediator.deps.json
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/bin/Debug/net7.0/Mediator.runtimeconfig.json
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/bin/Debug/net7.0/Mediator.dll
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/bin/Debug/net7.0/Mediator.pdb
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/obj/Debug/net7.0/Mediator.dll
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/obj/Debug/net7.0/refint/Mediator.dll
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/obj/Debug/net7.0/Mediator.pdb
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/obj/Debug/net7.0/Mediator.genruntimeconfig.cache
+/Users/ahmetyasinada/Desktop/PROGRAMMING APPLICATIONS/LAB/Mediator/obj/Debug/net7.0/ref/Mediator.dll
