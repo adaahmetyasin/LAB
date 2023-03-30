@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Visitor Pattern/1.0.0": {
+        "runtime": {
+          "Visitor Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Visitor Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
